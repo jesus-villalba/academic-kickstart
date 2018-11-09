@@ -10,31 +10,25 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Speech Processing",
+    "Speech/Speaker/Language Recognition",
+    "Bayesian Modeling",
+    "Unsupervised Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD. in Biomedical Engineering"
+  institution = "University of Zaragoza, Spain"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc Telecommunication Engineer"
+  institution = "University of Zaragoza, Spain"
+  year = 2004
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Jesus Villalba received his MSc degree in Telecommunication Engineering in 2004 and his PhD in 2014 from the University of Zaragoza (Spain). His thesis focused on applying Bayesian inference to voice biometrics, also known as speaker recognition. His thesis was recently awarded at the Iberspeech 2016 conference. During his PhD, he collaborated with the company Agnitio (Madrid, Spain); and was a visitor at Brno University of Technology (Czech Republic), and Agnitio Research (South Africa). In 2015, he joined the company Cirrus Logic (Madrid, Spain), where he was working on robust speaker recognition on embedded devices. In 2016, he joined the Center of Language and Speech Processing (CLSP) at Johns Hopkins University (Baltimore, USA) as Postdoctoral fellow. Since 2017, he holds an Assistant Research Scientist position at the same center. He holds two patents; and has publications in journals like IEEE Transactions of Audio, Speech and Language Processing and Speech Communication. Furthermore, he regularly publishes in top speech conference venues like Interspeech and ICASSP.
