@@ -6,5 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = true
 publication = "*Proceedings of the IEEE Workshop on Automatic Speech Recognition and Understanding, ASRU 2015*"
+url_pdf = "https://ieeexplore.ieee.org/document/7404860"
+doi = "10.1109/ASRU.2015.7404860"
 +++
 

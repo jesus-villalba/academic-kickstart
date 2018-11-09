@@ -6,5 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = true
 publication = "*Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2014*"
+url_pdf = "https://ieeexplore.ieee.org/abstract/document/6853695"
+doi = "10.1109/ICASSP.2014.6853695"
 +++
 

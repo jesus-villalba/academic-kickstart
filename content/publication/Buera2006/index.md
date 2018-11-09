@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*Proceedings of the III Jornadas de Reconocimiento Biométrico de Personas, JRBP 2006*"
-url_pdf = "http://www.mendeley.com/download/public/1833661/3948388942/a7c9b3ee70bb13a4302e72474350ab4d881b20eb/dl.pdf"
+url_pdf = "http://diec.unizar.es/intranet/articulos/uploads/Verificacion%20e%20Identificacion%20de%20Locutor%20con%20Normalizacion%20de%20Vectores%20de%20Caracteristicas%20en%20Entornos%20Acusticos%20Adversos.pdf"
 +++
 

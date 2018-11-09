@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 selected = false
 publication = "*Proceedings of the 14th Annual Conference of the International Speech Communication Association, Interspeech 2013*"
-url_pdf = "http://www.mendeley.com/download/public/1833661/5999411354/ce9884d7bb7d3cb1a97bc3023aab206491439b08/dl.pdf"
+url_pdf = "https://www.isca-speech.org/archive/archive_papers/interspeech_2013/i13_3679.pdf"
 +++
 

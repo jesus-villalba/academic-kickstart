@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*Proceedings of the IV Jornadas de Reconocimiento Biometrico de Personas, JRBP 2008*"
-url_pdf = "http://www.mendeley.com/download/public/1833661/3948390932/fdd3f2ee82702e40498fa82175e0e764915752ad/dl.pdf"
+url_pdf = "http://uvadoc.uva.es/handle/10324/26992"
 +++
 

@@ -6,6 +6,6 @@ publication_types = ["5"]
 abstract = ""
 selected = "false"
 publication = "PhD. Thesis, Universidad de Zaragoza"
-url_pdf = ""
+url_pdf = "./publication/villalba-thesis/thesis_villalba.pdf"
 +++
 

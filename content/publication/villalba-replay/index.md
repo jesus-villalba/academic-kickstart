@@ -7,7 +7,7 @@ abstract = "In this paper, we describe a system for detecting spoofing attacks o
 selected = true
 publication = "*Proceedings of the IEEE International Carnahan Conference on Security Technology, ICCST 2011*"
 tags = ["and paste", "cut", "far-field", "forgery", "replay attack", "speaker verification", "spoofing"]
-url_pdf = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6095943&tag=1"
+url_pdf = "https://ieeexplore.ieee.org/document/6095943"
 doi = "10.1109/CCST.2011.6095943"
 +++
 

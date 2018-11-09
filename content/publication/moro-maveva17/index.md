@@ -7,5 +7,6 @@ abstract = ""
 selected = "false"
 publication = "*Proceedings of MAVEBA 2017*"
 tags = ["acoustic landmarks", "gmm -ubm", "parkinson", "rasta-plp", "s disease"]
+url_pdf = "https://par.nsf.gov/servlets/purl/10065932"
 +++
 

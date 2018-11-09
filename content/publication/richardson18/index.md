@@ -6,5 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*Proceedings of Odyssey 2018 - The Speaker and Language Recognition Workshop*"
+url_pdf = "https://www.isca-speech.org/archive/Odyssey_2018/pdfs/16.pdf"
+doi = "10.21437/Odyssey.2018-8"
 +++
 

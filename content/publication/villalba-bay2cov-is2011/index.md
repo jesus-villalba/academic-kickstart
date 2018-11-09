@@ -7,6 +7,6 @@ abstract = "We propose a variational Bayes solution to integrate out the model p
 selected = true
 publication = "*Proceedings of the 12th Annual Conference of the International Speech Communication Association, Interspeech 2011*"
 tags = ["i-vectors", "speaker recognition", "variational Bayes"]
-url_pdf = "http://www.mendeley.com/download/public/1833661/4309852002/79830fac3c05c6e2c18ea86b38c89792e4369533/dl.pdf"
+url_pdf = "https://www.isca-speech.org/archive/archive_papers/interspeech_2011/i11_0505.pdf"
 +++
 

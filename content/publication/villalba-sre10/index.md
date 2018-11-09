@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*Proceedings of the V Jornadas de Reconocimiento Biometrico de Personas, JRBP 2010*"
-url_pdf = "http://www.mendeley.com/download/public/1833661/3949230302/8772cb1e3df09db42090e2318c333e2e33cfe7be/dl.pdf"
+url_pdf = "http://jrbp10.unizar.es/papers/S6.C3.pdf"
 +++
 

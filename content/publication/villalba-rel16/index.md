@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "*IEEE/ACM Transactions on Audio, Speech, and Language Processing*"
-url_pdf = "http://ieeexplore.ieee.org/document/7563340/"
+url_pdf = "http://ieeexplore.ieee.org/document/7563340"
 doi = "10.1109/TASLP.2016.2607343"
 +++
 

@@ -7,7 +7,7 @@ abstract = "We describe in this paper the experiences of the Johns Hop-kins Univ
 selected = "false"
 publication = "*Proceedings of the 19th Annual Conference of the International Speech Communication Association, INTERSPEECH 2018*"
 tags = ["Index Terms", "speaker diarization"]
-url_pdf = "http://www.danielpovey.com/files/2018_interspeech_dihard.pdf http://dx.doi.org/10.21437/Interspeech.2018-1893"
+url_pdf = "https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1893.pdf"
 doi = "10.21437/Interspeech.2018-1893"
 +++
 
